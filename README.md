@@ -1,2 +1,2 @@
-# alice.b-github.io
-Landing page
+# Alice
+Free Bootstrap template for chat bot landing page
